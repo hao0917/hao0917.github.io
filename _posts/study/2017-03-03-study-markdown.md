@@ -21,13 +21,16 @@ category: blog
 ## 关于字体
 
 >用 \*\* 包含一段文本就是粗体，用 \* 包含一段文本就是斜体
-
+```
+*斜体字Hale*  
+**粗体字Hale**  
+***加粗加斜Hale***  
+ ~~中划线~~  
+```
  *斜体字Hale*  
  **粗体字Hale**  
  ***加粗加斜Hale***  
- ~~hello~~  
- ++hello++  
- ==hello==
+ ~~中划线~~  
 
 ---
 
@@ -41,7 +44,7 @@ category: blog
 ```
   * 1
   * 2
-2. 有序列表  
+2. 有序列表
 ```  
   1. a
   2. b
@@ -81,7 +84,8 @@ category: blog
 ***
 
 ## 代码框
-使用```包裹代码
+使用```包裹代码  
+
 ```
 public static voiid main(String[] args){
     System.out.println("Hello World");
