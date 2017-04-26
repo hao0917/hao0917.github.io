@@ -86,6 +86,9 @@ comments_provider: disqus
 # !!!重要!!! 请修改下面这些用户名为你自己申请的
 # !!!Important!!! Please modify usernames below to yours
 disqus_username: hao0917
+netease_gentie_key: 560ed243b708465d82d5a0a5f3b83da1
+# 在使用网易云跟帖时可点击显示 Disqus
+lazy_load_disqus : true
 
 # ---------------- #
 #    Analytics     #
