@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-#url: http://dreamhao.com
+url: http://dreamhao.com
 date_format: "ordinal"
 title: 轨迹
 subtitle: "我的快乐世界"
