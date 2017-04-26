@@ -4,10 +4,10 @@
 baseurl:
 #url: http://dreamhao.com
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
+title: 文豪
+subtitle: "豪哥的快乐世界"
 description: "文豪的个人博客"
-keywords: 码志, 文豪, wenhao, hale
+keywords: 文豪, wenhao, hale
 favicon: /favicon.ico
 timezone: Asia/Beijing
 encoding: "utf-8"
