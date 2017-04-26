@@ -1,3 +1,4 @@
+<!--显示自己受欢迎的github repo 我不希望显示 就添加了0！=0 判断-->
 {% if 0 != 0 %}
 <h3>My Popular Repositories</h3>
 {% if site.github.public_repositories != null %}
@@ -34,3 +35,13 @@
 {% endfor %}
 {% endif %}
 {% endif %}
+
+
+<div class="short-about">
+{% if site.sidebar-avatar %}
+ <img src="{{site.sidebar-avatar}}" />
+{% endif %}
+{% if site.sidebar-about-description %}
+<p>{{site.sidebar-about-description}}</p>
+{% endif %}
+</div>
