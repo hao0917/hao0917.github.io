@@ -11,12 +11,7 @@
 
 本博客外观基于 [DONGChuan](http://dongchuan.github.io) 修改，感谢！
 
-<<<<<<< HEAD
+
 > [1]: https://github.com/mzlogin/chinese-copywriting-guidelines  
 > [2]: https://help.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/  
 > [3]: https://github.com/mzlogin/mzlogin.github.io/issues/2  
-=======
-> [1]: https://github.com/mzlogin/chinese-copywriting-guidelines
-> [2]: https://help.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/
-> [3]: https://github.com/mzlogin/mzlogin.github.io/issues/2
->>>>>>> 7eb5ec1df163ad74d0dfca744f000ec3dc313062
