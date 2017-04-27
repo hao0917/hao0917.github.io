@@ -3,7 +3,7 @@ layout: post
 title: MarkDown 学习
 description: 介绍一些简单的MarkDown语法
 date: 2017-03-03
-categories: [study, blog]
+categories: [study]
 ---
 
 # 我的Markdown学习笔记
@@ -124,26 +124,28 @@ _   底线
 
 ---
 
-## 关于列表
+## 关于列表  
 
-1. 无序列表
+1. 无序列表  
 ```  
  * AAA
  * BBB
- * CCC
+ * CCC  
 ```
- * AAA
- * BBB
- * CCC
-2. 有序列表
+   * AAA
+   * BBB
+   * CCC  
+
+2. 有序列表  
 ```  
  1. AAA
  2. BBB
  3. CCC
-```
- 1. AAA
- 2. BBB
- 3. CCC
+```  
+
+    1. AAA
+    2. BBB
+    3. CCC
 
 ***
 
