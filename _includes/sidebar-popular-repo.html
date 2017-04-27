@@ -36,12 +36,21 @@
 {% endif %}
 {% endif %}
 
-
+<!--
 <div class="short-about">
 {% if site.sidebar-avatar %}
  <img src="{{site.sidebar-avatar}}" />
 {% endif %}
 {% if site.sidebar-about-description %}
 <p>{{site.sidebar-about-description}}</p>
+{% endif %}
+</div>
+-->
+<div class="short-about">
+{% if site.data.slidebar.sidebar-avatar %}
+ <img src="{{site.data.slidebar.sidebar-avatar}}" />
+{% endif %}
+{% if site.data.slidebar.sidebar-about-description %}
+<p>{{site.data.slidebar.sidebar-about-description}}</p>
 {% endif %}
 </div>
