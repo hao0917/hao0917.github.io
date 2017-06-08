@@ -1,4 +1,4 @@
 20170426
 1 添加了评论功能  主要代码在_includes/comments.html 中
-2 去除了显示github项目功能，组要代码在_includes/skudebar-popular-repo.html,
+2 去除了显示github项目功能，主要代码在_includes/skudebar-popular-repo.html,
   在最前面添加if 0！=0 .
