@@ -2,7 +2,7 @@
 layout: wiki
 title: Vim
 categories: Vim
-description: 个人最常用的 Vim 常用操作。
+description: 常用的 Vim 操作。
 keywords: Vim
 ---
 
@@ -196,50 +196,11 @@ keywords: Vim
   | 缩进当前行              | `>>`                           |
   | 反缩进当前行            | `<<`                           |
 
-  ### 插件
 
-  #### CtrlP
-
-  基础按键 `C-p`
-
-  | 功能                               | 按键      |
-  |:-----------------------------------|:----------|
-  | 刷新列表                           | `F5`      |
-  | 切换文件/缓冲区/MRU                | `C-f/b`   |
-  | 切换全路径搜索/文件名搜索          | `C-d`     |
-  | 切换正则表达式模式                 | `C-r`     |
-  | 上/下一个选项                      | `C-k/j`   |
-  | 在新标签/垂直分割/水平分割打开文件 | `C-t/v/x` |
-  | 历史选择记录的上/下一条            | `C-p/n`   |
-  | 创建文件和它的父路径               | `C-y`     |
-  | 标记并打开多个文件                 | `C-z C-o` |
-  | 退出 CtrlP                         | `C-c`     |
-
-  #### LeaderF
-
-  | 功能                               | 按键                   |
-  |:-----------------------------------|:-----------------------|
-  | 打开文件                           | `Leader-f`             |
-  | 打开缓冲区                         | `Leader-b`             |
-  | 打开 MRU                           | `Leader-m`（自定义的） |
-  | 退出                               | `C-c`                  |
-  | 切换模糊查找和正则查找             | `C-r`                  |
-  | 粘贴                               | `C-v`                  |
-  | 清空输入                           | `C-u`                  |
-  | 上/下一个选项                      | `C-k/j`                |
-  | 在新标签/垂直分割/水平分割打开文件 | `C-t/]/v`              |
-  | 刷新列表                           | `F5`                   |
-
-
-  > 以下转载自[酷 壳 – CoolShell <简明 VIM 练级攻略>](http://coolshell.cn/articles/5426.html)  
+  >### 以下转载自[酷 壳 – CoolShell <简明 VIM 练级攻略>](http://coolshell.cn/articles/5426.html)  
 
   <article id="post-5426" class="post-content post-5426 post type-post status-publish format-standard hentry category-misc category-tools tag-vim">
 
-    <header class="entry-header">
-
-        <span class="screen-reader-text">简明 Vim 练级攻略</span>
-
-    </header><!-- .entry-header -->
 
     <div class="entry-content">
 
