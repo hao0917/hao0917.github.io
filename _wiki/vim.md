@@ -6,9 +6,11 @@ description: 常用的 Vim 操作。
 keywords: Vim
 ---
 
+## 常用操作
+
 ### 移动
 
-**以字（符）为单位**
+#### 以字（符）为单位
 
 | 功能 | 按键 |
 |:-----|:-----|
@@ -17,7 +19,7 @@ keywords: Vim
 | 左   | `h`  |
 | 右   | `l`  |
 
-**以单词为单位**
+#### 以单词为单位
 
 | 功能                                   | 按键 |
 |:---------------------------------------|:-----|
@@ -26,7 +28,7 @@ keywords: Vim
 | 本单词首（已在本词首则跳到前一单词首） | `b`  |
 | 本单词尾（已在本词尾则跳到后一单词尾） | `e`  |
 
-**以屏幕为单位**
+#### 以屏幕为单位
 
 | 功能                     | 按键     |
 |:-------------------------|:---------|
@@ -43,13 +45,13 @@ keywords: Vim
 | 光标所在位置移到屏幕中间 | `zz`     |
 | 光标所在位置移到屏幕下方 | `zb`     |
 
-**行号**
+#### 行号
 
 | 功能          | 按键                        |
 |:--------------|:----------------------------|
 | 跳到第 num 行 | `:num` 或 `numG` 或 `numgg` |
 
-**文件**
+#### 文件
 
 | 功能       | 按键 |
 |:-----------|:-----|
@@ -198,9 +200,10 @@ keywords: Vim
 
 -----  
 
-  > 以下转载自[酷 壳 – CoolShell <简明 VIM 练级攻略>](http://coolshell.cn/articles/5426.html)  
+  以下转载自[酷 壳 – CoolShell <简明 VIM 练级攻略>](http://coolshell.cn/articles/5426.html)  
 
 -----
+##  简明 VIM 练级攻略
   <article id="post-5426" class="post-content post-5426 post type-post status-publish format-standard hentry category-misc category-tools tag-vim">
 
 
