@@ -196,9 +196,11 @@ keywords: Vim
   | 缩进当前行              | `>>`                           |
   | 反缩进当前行            | `<<`                           |
 
+-----  
 
-  >### 以下转载自[酷 壳 – CoolShell <简明 VIM 练级攻略>](http://coolshell.cn/articles/5426.html)  
+  > 以下转载自[酷 壳 – CoolShell <简明 VIM 练级攻略>](http://coolshell.cn/articles/5426.html)  
 
+-----
   <article id="post-5426" class="post-content post-5426 post type-post status-publish format-standard hentry category-misc category-tools tag-vim">
 
 
