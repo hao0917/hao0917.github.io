@@ -239,12 +239,6 @@ keywords: Vim
 
         <span class="screen-reader-text">简明 Vim 练级攻略</span>
 
-        <h1 class="entry-title">简明 Vim 练级攻略</h1>
-
-        <div class="entry-meta">
-            <h5 class="entry-date"><i class="fa fa-calendar-o"></i> <a href="http://coolshell.cn/articles/5426.html" title="08:27" rel="bookmark"><time class="entry-date" datetime="2011-09-07T08:27:26+00:00" pubdate="">2011年09月07日 </time></a><span class="byline"><span class="sep"></span><i class="fa fa-user"></i>
-                    <span class="author vcard"><a class="url fn n" href="http://coolshell.cn/articles/author/haoel" title="View all posts by 陈皓" rel="author">陈皓</a></span></span> <i class="fa fa-comments-o"></i><span class="screen-reader-text">评论 </span> <a href="http://coolshell.cn/articles/5426.html#comments" class="comments-link">529 条评论</a> <i class="fa fa-users" style="margin-left:10px;"></i> 732,975 人阅读</h5>
-        </div><!-- .entry-meta -->
     </header><!-- .entry-header -->
 
     <div class="entry-content">
