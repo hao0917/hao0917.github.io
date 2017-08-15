@@ -126,28 +126,27 @@ _   底线
 
 ## 关于列表  
 
-无序列表  
+> 无序列表  
+
 ```  
  * AAA
  * BBB
  * CCC  
 ```
-   * AAA
-   * BBB
-   * CCC  
+  * AAA
+  * BBB
+  * CCC  
 
----  
+> 有序列表  
 
-有序列表  
 ```  
- 1. AAA
- 2. BBB
- 3. CCC
-```  
-
-    1. AAA
-    2. BBB
-    3. CCC
+1. AAA
+2. BBB
+3. CCC
+```
+  1. AAA
+  2. BBB
+  3. CCC
 
 ***
 
