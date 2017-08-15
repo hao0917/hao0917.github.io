@@ -223,3 +223,20 @@ public static voiid main(String[] args){
     System.out.println("Hello World");
 }
 ```
+
+
+## 代码块（指定语言）
+使用```语言名  包裹代码  
+``````  
+  ```java
+  public static voiid main(String[] args){
+      System.out.println("Hello World");
+  }
+  ```
+``````
+
+```java
+public static voiid main(String[] args){
+    System.out.println("Hello World");
+}
+```
