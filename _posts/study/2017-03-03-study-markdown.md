@@ -172,7 +172,6 @@ _   底线
 ```
 插入图片的语法很像，区别在一个 !号
 链接为：[]()
-
 图片为：![](){ImgCap}{/ImgCap}
 例如：
 ![百度图片](https://www.baidu.com/img/baidu.gif)  
