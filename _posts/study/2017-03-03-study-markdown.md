@@ -163,7 +163,8 @@ _   底线
 插入链接
 ```
 链接为：[]()
-
+例如：
+[Google](www.google.com) [我的博客](http://www.dreamhao.com/)
 ```
 [Google](www.google.com) [我的博客](http://www.dreamhao.com/)
 
@@ -173,6 +174,8 @@ _   底线
 链接为：[]()
 
 图片为：![](){ImgCap}{/ImgCap}
+例如：
+![百度图片](https://www.baidu.com/img/baidu.gif)  
 ```
 
 ![百度图片](https://www.baidu.com/img/baidu.gif)  
