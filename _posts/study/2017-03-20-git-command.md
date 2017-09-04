@@ -3,7 +3,12 @@ layout: post
 title: GIT 命令
 categories: [study]
 description: GIT常用命令
-keywords: GIT,版本控制
+keywords: GIT,版本控
+author:     "wenhao"
+catalog:    true
+tags:
+    - study
+    - Android
 ---
 
 ## GIT学习

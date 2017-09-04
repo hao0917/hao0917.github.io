@@ -4,6 +4,11 @@ title: Acache 源码
 categories: [study]
 description: Acache 源码解读
 keywords: Acache, 源码
+author:     "wenhao"
+catalog:    true
+tags:
+    - study
+    - Android
 ---
 ## [ASimpleCache](https://github.com/yangfuhai/ASimpleCache)  
 ----
