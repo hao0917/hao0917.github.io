@@ -8,7 +8,6 @@ author:     "wenhao"
 catalog:    true
 tags:
     - study
-    - Android
 ---
 
 # 我的Markdown学习笔记

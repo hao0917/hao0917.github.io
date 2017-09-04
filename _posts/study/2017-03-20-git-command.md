@@ -8,7 +8,6 @@ author:     "wenhao"
 catalog:    true
 tags:
     - study
-    - Android
 ---
 
 ## GIT学习
