@@ -4,6 +4,8 @@ title: <<一天>>陈村
 categories: [blog]
 description: <<一天>>陈村
 keywords: 小说
+tags:
+    - home
 ---
 
 > ### 《一天》

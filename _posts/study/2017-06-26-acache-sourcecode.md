@@ -8,7 +8,6 @@ author:     "wenhao"
 catalog:    true
 tags:
     - study
-    - Android
 ---
 ## [ASimpleCache](https://github.com/yangfuhai/ASimpleCache)  
 ----
