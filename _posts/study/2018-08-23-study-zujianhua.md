@@ -41,7 +41,7 @@ tags:
 1. 可以考虑把主module作为app壳，不写任何业务逻辑，代码都在子module中  
 
 
-2.  library和Application转换，Gradle构建的工程中，module是由apply plugin:'com.android.application'来标识Application,apply plugin: 'com.android.library'来标识Library.因此,我们可以在编译时通过判断构建环境中的参数来修改子工程的工作方式,让debug时作为Application,release时为Library
+2. library和Application转换，Gradle构建的工程中，module是由apply plugin:'com.android.application'来标识Application,apply plugin: 'com.android.library'来标识Library.因此,我们可以在编译时通过判断构建环境中的参数来修改子工程的工作方式,让debug时作为Application,release时为Library
 如在module的gradle脚本头部加入以下脚本片段:  
 
 ```
@@ -71,10 +71,8 @@ sourceSets {
     }
 ```
   
-
 3. 当module数量过多时会影响编译速度，可以考虑把不经常改动的模块打包成AAR远程依赖。
   
-
 4. 当分别开发模块时，容易出资源重复命名的问题，可以通过给模块设置不同的资源前缀，避免重复命名。在build.gradle中设置  
 ```
 resourcePrefix "module1_"
