@@ -1,5 +1,5 @@
 # Site settings
-title: 轨迹
+title: 晚星
 SEOTitle: WenHao
 header-img: images/page/home-bg.jpg
 email: hao0917@163.com
@@ -86,14 +86,12 @@ service-worker: true
 
 # Friends
 friends: [
-    {
-        title: "廖雪峰",
-        href: "http://www.liaoxuefeng.com/"
-    },{
-        title: "干货集中营",
-        href: "http://gank.io/"
-    },{
-        title: "开发者头条",
-        href: "https://toutiao.io/"
-    }
+    # {
+    #     title: "zlibrary",
+    #     href: "https://zlibrary-global.se/"
+    # },
+    # {
+    #     title: "阮一峰的个人网站",
+    #     href: "http://www.ruanyifeng.com/"
+    # },
 ]
